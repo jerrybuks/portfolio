@@ -1,2 +1,17 @@
 plugins:
   - jekyll-seo-tag
+title: Chibuokem Jerry portfolio website
+description: This is the portfolio website of Chibuokem Jerry
+url: chibuokemjerry.me
+author:
+  twitter: ChibuokemJ
+twitter:
+  username:  ChibuokemJ
+  card: summary
+social:
+  name: Chibuokem Jerry
+  links:
+    - https://mobile.twitter.com/ChibuokemJ
+    - https://www.linkedin.com/in/jerry-chibuokem/
+    - https://github.com/jerrybuks
+    
