@@ -324,10 +324,10 @@ textarea {
 	background-image: url(../../assets/images/DailyPlanner.JPG);
 }
 .project-detail__site--5 {
-	background-image: url(../../assets/images/skada.JPG);
+	background-image: url(../../assets/images/skada.jpg);
 }
 .project-detail__site--6 {
-	background-image: url(../../assets/images/bookInventory.JPG);
+	background-image: url(../../assets/images/bookInventory.jpg);
 }
 @media (min-width: 56.25em) {
 	.project-detail__site {
