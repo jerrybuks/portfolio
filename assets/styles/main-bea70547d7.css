@@ -116,24 +116,28 @@ textarea {
 .header__text-box {
 	font-size: 2rem;
 	display: -ms-flexbox;
-	display: flex;
 	color: #f1f1f1;
-	-ms-flex-pack: center;
-	justify-content: center;
-	align-items: center;
+	 margin: auto;
+   	 width: 70%;
+    	text-align: center;
 }
 .header__text-box-img{
-	width: 300px;
-	border-radius: 50%;
+	width: 220px;
+	border-radius: 49%;
+	background-color: white;
+	display: block;
+	margin: auto;
+	margin-top: 4rem;
 }
 .header__text-box-para {
-	width: 80%;
 	line-height: 1.5;
 	font-weight: 100;
 	letter-spacing: 2px;
 	animation-name: a;
 	animation-duration: 2s;
 	animation-delay: .1s;
+	margin: auto;
+	margin-top: 4rem;
 }
 @media (min-width: 75em) {
 	.header__text-box-para {
