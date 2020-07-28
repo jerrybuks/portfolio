@@ -262,7 +262,7 @@ textarea {
 }
 .contact {
 	height: 100vh;
-    	background-image: linear-gradient(to right bottom, rgb(23, 4, 26, 0.9), rgba(23, 4, 27));
+    	background-image: linear-gradient(to right bottom, rgb(23, 4, 26), rgba(23, 4, 27,0.9))
 }
 .contact-form {
 	text-align: center;
