@@ -120,6 +120,11 @@ textarea {
 	color: #f1f1f1;
 	-ms-flex-pack: center;
 	justify-content: center;
+	align-items: center;
+}
+.header__text-box-img{
+	width: 300px;
+	border-radius: 50%;
 }
 .header__text-box-para {
 	width: 80%;
