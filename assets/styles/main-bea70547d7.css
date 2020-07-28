@@ -178,6 +178,11 @@ textarea {
 	display: block;
 	transition: .3s;
 }
+.nav-overlay__cv-link {
+	display: block; 
+	color: antiquewhite; 
+	font-size: 2rem;
+}
 .nav-overlay__content-link:focus,
 .nav-overlay__content-link:hover {
 	color: #818181;
