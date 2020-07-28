@@ -143,8 +143,7 @@ textarea {
 	z-index: 1;
 	top: 0;
 	left: 0;
-	background-image: linear-gradient(to right top, rgba(23, 4, 26, .7), rgba(0, 0, 0, .7)),
-  url(../../assets/images/header-backgroundTwo2.jpg)
+	background-image: linear-gradient(to right top, rgba(23, 4, 26, .7), rgba(0, 0, 0, .7)),url(../../assets/images/header-backgroundTwo2.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: top;
@@ -294,6 +293,7 @@ textarea {
 	background: linear-gradient(to right bottom, rgb(23, 4, 26), rgb(23, 4, 26, 0.9));
 	background-size: cover;
 	color: #f1f1f1;
+	 overflow: hidden;
 }
 .project-detail {
 	width: 70%;
