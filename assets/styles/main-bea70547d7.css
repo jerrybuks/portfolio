@@ -122,7 +122,8 @@ textarea {
     	text-align: center;
 }
 .header__text-box-img{
-	width: 220px;
+	width: 290px;
+	height: 280px;
 	border-radius: 49%;
 	background-color: white;
 	display: block;
