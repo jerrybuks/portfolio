@@ -545,3 +545,12 @@ textarea {
 	color: #f7f7f7;
 	padding-left: 2rem;
 }
+.portfolio-message {
+	text-align: center;
+    font-size: 16px;
+    padding: 4rem;
+    max-width: 1200px;
+    margin: auto;
+    font-weight: bold;
+    letter-spacing: 1.2px;
+    line-height: 28px;
