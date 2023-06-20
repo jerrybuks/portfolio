@@ -118,7 +118,7 @@ textarea {
 	display: -ms-flexbox;
 	color: #f1f1f1;
 	 margin: auto;
-   	 width: 70%;
+   	 padding: 3rem;
     	text-align: center;
 }
 .header__text-box-img{
